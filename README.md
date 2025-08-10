@@ -2,11 +2,21 @@
        alt="Waving Hand" 
        style="height: 100%; max-height: 4em; margin-right: 1em;" />
 
-       
-# Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
-## I know a lot of programming languages and am very passionate about bringing ideas to life.
 
-
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  </h1>
+    </summary>
+  </ul>
+</div>
+       <div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1> I know a lot of programming languages and am very passionate about bringing ideas to life.  </h1>
+    </summary>
+  </ul>
+</div>
 
 
 
