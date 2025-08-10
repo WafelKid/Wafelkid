@@ -1,7 +1,7 @@
 
 
 # Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.
-**I know a lot of programming languages and am very passionate about bringing ideas to life.**
+**I am familiar with many programming languages and am very passionate about bringing ideas to life.**
 
 <div align="center">
   
