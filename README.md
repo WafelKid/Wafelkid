@@ -1,4 +1,4 @@
-<!--<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
        alt="Waving Hand" 
        style="height: 100%; max-height: 4em; margin-right: 1em;" />
@@ -6,25 +6,9 @@
     Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
     I know a lot of programming languages and am very passionate about bringing ideas to life.
   </span>
-</div>-->
+</div>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; vertical-align: middle; padding: 0;">
-      <img 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-        style="height: auto; width: auto;"
-        alt="Waving Hand"
-      />
-    </td>
-    <td style="border: none; vertical-align: middle; padding-left: 10px;">
-      <h1 style="margin: 0; font-size: 1em;">
-        Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
-        I know a lot of programming languages and am very passionate about bringing ideas to life.
-      </h1>
-    </td>
-  </tr>
-</table>
+
 
 
 
