@@ -4,16 +4,16 @@
 
 
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
+  <ul  style="list-style: none;">
     <summary>
       <h1>Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  </h1>
     </summary>
   </ul>
 </div>
        <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
+  <ul  style="list-style: none;">
     <summary>
-      <h1> I know a lot of programming languages and am very passionate about bringing ideas to life.  </h1>
+      <h2> I know a lot of programming languages and am very passionate about bringing ideas to life.  </h2>
     </summary>
   </ul>
 </div>
