@@ -2,8 +2,8 @@
        alt="Waving Hand" 
        style="height: 100%; max-height: 4em; margin-right: 1em;" />
 
-**Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.**
-I know a lot of programming languages and am very passionate about bringing ideas to life.
+# Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.# 
+**I know a lot of programming languages and am very passionate about bringing ideas to life.**
 
 
 ---
