@@ -1,4 +1,12 @@
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" style="height: 1em; vertical-align: middle;" /> Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting. I know a lot of programming languages and am very passionate about bringing ideas to life.
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
+       alt="Waving Hand" 
+       style="height: 3em; margin-right: 0.5em;" />
+  <span>
+    Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
+    I know a lot of programming languages and am very passionate about bringing ideas to life.
+  </span>
+</div>
 
 ---
 <div align="center">
