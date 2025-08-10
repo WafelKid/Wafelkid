@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50"/></td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" /></td>
 <td><h1>Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
 I know a lot of programming languages and am very passionate about bringing ideas to life.</h1></td>
 </tr>
