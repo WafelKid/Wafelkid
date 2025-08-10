@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-       alt="Waving Hand" 
-       style="height: 100%; max-height: 4em; margin-right: 1em;" />
+
 
 # Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.
 **I know a lot of programming languages and am very passionate about bringing ideas to life.**
