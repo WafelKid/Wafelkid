@@ -13,7 +13,7 @@
     <td style="border: none; vertical-align: middle; padding: 0;">
       <img 
         src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-        style="height: 1em; width: auto;"
+        style="height: auto; width: auto;"
         alt="Waving Hand"
       />
     </td>
