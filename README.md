@@ -8,17 +8,14 @@
   </span>
 </div>-->
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-        alt="Waving Hand"
-        style="width: 50px; height: auto;" 
-    />
-    <h1>
-        Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
-        I know a lot of programming languages and am very passionate about bringing ideas to life.
-    </h1>
-</div>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50"/></td>
+<td><h1>Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
+I know a lot of programming languages and am very passionate about bringing ideas to life.</h1></td>
+</tr>
+</table>
+
 
 ---
 <div align="center">
