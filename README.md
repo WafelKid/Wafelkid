@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<!--<div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
        alt="Waving Hand" 
        style="height: 100%; max-height: 4em; margin-right: 1em;" />
@@ -6,8 +6,15 @@
     Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
     I know a lot of programming languages and am very passionate about bringing ideas to life.
   </span>
-</div>
+</div>-->
 
+<div style="display flex;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
+       alt="Waving Hand" 
+        />
+ <h1> Hey, I am a developer with experience in web development, Discord bots, and FiveM scripting.  
+    I know a lot of programming languages and am very passionate about bringing ideas to life.</h1>
+</div>
 ---
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
